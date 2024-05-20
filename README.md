@@ -1,5 +1,14 @@
 # 💫 About Me:
-i'm currently working on my skills.<br>i'm currently learning more about flask.<br>How to reach me : Email : - snaved556@gmail.com<br>
+Senior Python Developer @ Amin-softtech (2.5+ Years)
+
+Passionate about crafting robust and scalable Python solutions. I leverage my 2.5+ years of experience to handle projects from conception and development to deployment on AWS. I'm a strong advocate for clean code, continuous integration, and effective communication.
+
+Here are some additional elements you might consider including:
+
+Technical Skills: List specific Python libraries or frameworks you're proficient in (e.g., Django, Flask, NumPy, Pandas). Briefly mention other relevant technologies (e.g., AWS services you commonly use).
+Open Source Contributions: If you actively contribute to open-source projects, mention them here. Link to your most notable contributions to showcase your skills and collaborative spirit.
+Learning Journey: Briefly touch upon your approach to continuous learning. Are there any technologies or frameworks you're currently exploring?
+Interests: Feel free to add a line or two about your non-technical interests. This can help potential collaborators or employers connect with you on a personal level..<br>How to reach me : Email : - snaved556@gmail.com<br>
 
 
 ## 🌐 Socials:
