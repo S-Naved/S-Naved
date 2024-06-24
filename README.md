@@ -1,7 +1,7 @@
 # 💫 About Me:
 Senior Python Developer @ Amin-softtech (2.5+ Years)
 
-Passionate about crafting robust and scalable Python solutions. I leverage my 2.5+ years of experience to handle projects from conception and development to deployment on AWS. I'm a strong advocate for clean code, continuous integration, and effective communication.
+Passionate about crafting robust and scalable Python solutions. I leverage my 3 years of experience to handle projects from conception and development to deployment on AWS. I'm a strong advocate for clean code, continuous integration, and effective communication.
 
 
 Technical Skills: Django, Flask, NumPy, Pandas, Fast-Api, AWS:- EC2, S3, RDS, EBS
