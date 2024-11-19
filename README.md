@@ -1,5 +1,5 @@
 # 💫 About Me:
-Senior Python Developer @ Amin-softtech (2.7+ Years)
+Senior Python Developer @ Amin-softtech (3+ Years)
 
 Passionate about crafting robust and scalable Python solutions. I leverage my 3 years of experience to handle projects from conception and development to deployment on AWS. I'm a strong advocate for clean code, continuous integration, and effective communication.
 
@@ -13,7 +13,8 @@ Technical Skills: Django, Flask, NumPy, Pandas, Fast-Api, AWS:- EC2, S3, RDS, EB
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-# 📊 GitHub Stats:
+#
+ 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=S-Naved&theme=gotham&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=S-Naved&theme=gotham&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=S-Naved&theme=gotham&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
